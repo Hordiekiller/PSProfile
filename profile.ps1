@@ -1,7 +1,6 @@
-#Import-Module AzureAD
 Import-Module ActiveDirectory
 
-$profile1 = "AllUsersAllHost"
+$profile1 = "CurrentUserAllHosts"
 
 ######################################################################
 ######################################################################
